@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.fastserve.aawp
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, docker, gcp-pubsub, graalvm, http-client, java, java-application, jax-rs, jib, junit, logback, maven, netty-server, readme, yaml]
